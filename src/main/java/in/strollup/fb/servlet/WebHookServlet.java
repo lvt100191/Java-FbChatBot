@@ -28,7 +28,7 @@ import com.google.gson.Gson;
 
 /**
  * 
- * @author thekosmix
+ * @author tunglv4
  * 
  *
  */
